@@ -43,7 +43,7 @@ qual foi o salário do funcionário nesse mês, conforme exemplo.
 - **IDE:** IntelliJ IDEA
 - **Controle de Versão:** Git & GitHub
 - **Documentação:** Markdown
-- **Qualidade de Código:** SonarQube for IDE 
+- **Qualidade de Código:** SonarQube for IDE
 
 <br>
 
@@ -55,13 +55,21 @@ qual foi o salário do funcionário nesse mês, conforme exemplo.
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ---
 
-## 🚀 Como Executar os Projetos
+## 🚀 Como Executar o Projeto
 
-1. Clone este repositório:
+1. Clone este repositório no seu terminal:
 
 ```bash
 git clone https://github.com/ivanfsilva/ds-trabalhador-contratos.git
 ```
+
+2. Importe o projeto para a sua IDE de preferência (Eclipse, IntelliJ IDEA, VS Code, etc.).
+3. Navegue até o pacote `application` e abra o arquivo `Program.java`.
+4. Execute a classe `Program`.
+5. Interaja com o sistema através do console da sua IDE, inserindo os dados conforme o exemplo de entrada (lembre-se de
+   utilizar ponto como separador decimal para os valores numéricos).
+
+---
 
 ## 👤 Autor
 
@@ -71,4 +79,5 @@ Copyright © 2026 Ivan Ferreira. Todos os direitos reservados.
 
 ## ☕ Sobre
 
-Projeto prático desenvolvido durante os treinamentos de Java da plataforma ⚡**DevSuperior**, ministrados pelo Prof. Dr. Nélio Alves.
+Projeto prático desenvolvido durante os treinamentos de Java da plataforma ⚡**DevSuperior**, ministrados pelo Prof. Dr.
+Nélio Alves.
